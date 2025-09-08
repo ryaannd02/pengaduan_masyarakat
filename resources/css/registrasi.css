@@ -1,0 +1,19 @@
+.bg-gradient-primary {
+    background: linear-gradient(45deg, #007bff, #00c6ff);
+}
+
+.bg-gradient-warning {
+    background: linear-gradient(45deg, #ffcf00, #ffea7f);
+}
+
+.bg-gradient-success {
+    background: linear-gradient(45deg, #00b09b, #96c93d);
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.stat-card i {
+    opacity: 0.85;
+}
